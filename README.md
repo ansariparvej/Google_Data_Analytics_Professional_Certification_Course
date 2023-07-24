@@ -1,4 +1,4 @@
-## What to learn:
+## Course Overview:
 
 - Gain an immersive understanding of the practices and processes used by a junior or associate data analyst in their day-to-day job
 
