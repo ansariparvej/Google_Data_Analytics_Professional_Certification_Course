@@ -13,7 +13,7 @@
 
 &nbsp;
 
-![cert]([google-data-analytics.png](https://www.coursera.org/account/accomplishments/professional-cert/XYGJ7ZYS3DL9))
+![Course Certificate](https://www.coursera.org/account/accomplishments/professional-cert/XYGJ7ZYS3DL9)
 
 * This repository written for reference and self-documentation purpose
 * Feel free to contribute!
